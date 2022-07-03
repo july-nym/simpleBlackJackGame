@@ -1,0 +1,35 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-image: url("./images/Casino-Game-Wallpapers-Top-Free-Casino-Game-Backgrounds-.jpeg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  background-color: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bolder;
+  border: none;
+  border-radius: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+button:active {
+  background-color: gold;
+  transform: translateY(1px);
+}
